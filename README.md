@@ -88,6 +88,7 @@ accuracy_score(y_true, y_pred)
 -main.ipynb
 ```
 ## 使用方式
-> 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
+>  
 A：在AI Studio上[【飞桨学习赛：英雄联盟大师预测】2022年9月第5名方案](https://aistudio.baidu.com/aistudio/projectdetail/4593267?sUid=545541&shared=1&ts=1665633650233)  
 B：点击一键运行全部即可运行。可对模型结构进行修改寻找更好的预测效果。
+项目参考官方Baseline：[英雄联盟大师 Baseline](https://aistudio.baidu.com/aistudio/projectdetail/3899542?channel=0&channelType=0&sUid=545541&shared=1&ts=1665633466592)
